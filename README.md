@@ -1,6 +1,8 @@
 # 微博超话一键签到工具
 
 一个功能完整的微博超话自动签到工具，提供图形化界面，支持二维码登录和一键批量签到功能。
+<img width="1502" height="1040" alt="image" src="https://github.com/user-attachments/assets/6e1eae4f-1420-4660-b968-c03cf3e096ef" />
+
 
 ## 📋 项目简介
 
