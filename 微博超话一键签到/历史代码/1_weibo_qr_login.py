@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 微博二维码登录工具 - 使用Selenium获取真实二维码
+作者：小庄-Python办公
 """
 
 import tkinter as tk
