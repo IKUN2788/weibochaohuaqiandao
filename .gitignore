@@ -1,0 +1,115 @@
+# IDE和编辑器文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 虚拟环境
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Office文档（通常较大）
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.pdf
+
+# 图片和媒体文件（大文件）
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.svg
+*.ico
+*.webp
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+
+# 压缩文件（通常较大）
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+*.xz
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.accdb
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 配置文件（可能包含敏感信息）
+.env
+.env.local
+.env.production
+config.ini
+settings.ini
+
+# 大型数据文件
+*.csv
+*.json
+*.xml
+*.txt
+# 如果有特定的小型配置文件需要提交，可以用 !filename.json 来排除此规则
