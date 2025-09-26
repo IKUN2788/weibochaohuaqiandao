@@ -3,6 +3,7 @@
 """
 微博超话一键签到工具 - 完整版界面工具
 整合登录和签到功能的GUI应用
+作者：小庄-Python办公
 """
 
 import tkinter as tk
