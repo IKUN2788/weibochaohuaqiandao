@@ -1,4 +1,7 @@
-1
+'''
+本代码可以实现一键获取所有超话返回响应
+作者：小庄-Python办公
+'''
 import requests
 import json
 import time
